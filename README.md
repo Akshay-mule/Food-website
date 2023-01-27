@@ -1,1 +1,1 @@
-# Food-website
+This Project is one of my first project in my web developer journey created using HTML And CSS. This is a simple Food App. where  can see differnt types of foods like Breakfast,Lunch and Dinner etc.You can see demo on clicking below link:
